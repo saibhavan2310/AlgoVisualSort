@@ -6,9 +6,9 @@ Each algorithm is implemented with interactive visualizations, allowing users to
 
 Features:
 
-Interactive visualizations for Bubble Sort, Comb Sort, Heap Sort, Insertion Sort, Selection Sort, and Shell Sort.
-Clear step-by-step demonstrations of each algorithm's sorting process.
-Customizable input arrays to observe algorithm behavior with different data sets.
-Sorting can be visualized in ascending or descending order.
-Complexity analysis for each sorting algorithm is provided on the index.html page.
-Explore the Visual Sorting Algorithms Showcase and gain insights into the inner workings of these fundamental sorting techniques. Happy sorting!
+-> Interactive visualizations for Bubble Sort, Comb Sort, Heap Sort, Insertion Sort, Selection Sort, and Shell Sort.
+-> Clear step-by-step demonstrations of each algorithm's sorting process.
+-> Customizable input arrays to observe algorithm behavior with different data sets.
+-> Sorting can be visualized in ascending or descending order.
+-> Complexity analysis for each sorting algorithm is provided on the index.html page.
+-> Explore the Visual Sorting Algorithms Showcase and gain insights into the inner workings of these fundamental sorting techniques. Happy sorting!
